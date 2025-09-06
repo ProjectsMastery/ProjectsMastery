@@ -43,8 +43,10 @@ PMC is founded and led by [Emmanuel](https://www.linkedin.com/in/emmanuel-oshakp
 🛠️ Need help building your web presence or MVP?  
 📩 Reach out — we’re open to creative collaboration.
 
-> 🔗 PMC’s official website & social accounts are in progress. Stay tuned.
-
+> 🔗 PMC’s official studio website is coming pretty soon! 😊
+For now you can check our currently in development projects like:
+> https://anotara.vercel.app/
+> https://animtheme.vercel.app/
 ---
 
 ## 📌 Note
