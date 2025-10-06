@@ -22,7 +22,7 @@ We blend creativity with engineering — and always deliver with care.
 
 ## 👨‍💻 Who’s Behind PMC?
 
-PMC is founded and led by [Emmanuel](https://www.linkedin.com/in/emmanuel-oshakpemeh), a full-stack developer on a mission to build tools that empower people to **learn, earn, and express** through technology.
+PMC is founded and led by [Emmanuel](https://www.linkedin.com/in/chatme), a full-stack developer on a mission to build tools that empower people to **learn, earn, and express** through technology.
 
 ---
 
@@ -45,8 +45,8 @@ PMC is founded and led by [Emmanuel](https://www.linkedin.com/in/emmanuel-oshakp
 
 > 🔗 PMC’s official studio website is coming pretty soon! 😊
 For now you can check our currently in development projects like:
-> https://anotara.vercel.app/
-> https://animtheme.vercel.app/
+> [Anotra AI](https://anotaraai.vercel.app/)
+> [AnimTheme](https://animtheme.vercel.app/)
 ---
 
 ## 📌 Note
