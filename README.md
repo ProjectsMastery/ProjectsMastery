@@ -57,6 +57,6 @@ Projects Mastery Connect (PMC) is currently **not registered** as a formal compa
 
 ## 🤝 Contributions
 
-We’re not accepting public contributions at this time.  
+Feel free to check the ReadMe of each our repos to see which one is open for contributions, your contribution is appreciated!
 Follow this repository and stay tuned for upcoming tools and releases.
 
